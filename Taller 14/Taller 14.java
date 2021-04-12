@@ -1,6 +1,6 @@
 package TalleresMC;
 import java.util.*;
-public class Taller12{
+public class Taller14{
 	static void Impresionmat(float matriz[][], int var){
 		for(int x=0;x<var;x++){
 			for(int y=0;y<(var+1);y++)
