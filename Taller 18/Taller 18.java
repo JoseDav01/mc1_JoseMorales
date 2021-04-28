@@ -2,7 +2,7 @@ package TalleresMC;
 
 import java.util.Scanner;
 
-public class Taller12 {
+public class Taller18 {
 
     public static void main(String[] args) {
          Scanner sc = new Scanner(System.in);
